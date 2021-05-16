@@ -1,0 +1,288 @@
+[[Hanabi]]
+arch = "aarch64"
+git-tree-sha1 = "f46cf80a3ee0b2c6448b6e9f29e19414cb98156f"
+os = "macos"
+
+    [[Hanabi.download]]
+    sha256 = "15db55e7c7918313117bd3576cbcab61df495156305b821b5e52c140a15682d1"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.aarch64-apple-darwin.tar.gz"
+[[Hanabi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60ccf08f48b03e4345dac53f2cc0d1be20c7def3"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "e74bd51edbe01a86bdb8cf6fe085f14557c97ebacf908d987933f9a395935ba0"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.aarch64-linux-gnu-cxx03.tar.gz"
+[[Hanabi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9335c6834861385866487650cc33cf591a960031"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "db80c4ea665e7181b4071e4564e28bb2aa74b20d8d424539e74d8edae5890b33"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.aarch64-linux-gnu-cxx11.tar.gz"
+[[Hanabi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d88af7c2af60773b7409c51be208de8103bd42d"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "fb1b7d1af3c38a02592157fb7d8b731de34e8e169d008aba888d201b3b9922f7"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.aarch64-linux-musl-cxx03.tar.gz"
+[[Hanabi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e975c1f6820ac01e184fa50b5256078d7d34023"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "a99dd983ed4183ae04d4a95e597efe97464bcf15334fbf52fa684c228d05ca54"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.aarch64-linux-musl-cxx11.tar.gz"
+[[Hanabi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "44898e0a059b841d1df5e07d77060f35536c9609"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "c820d53461a1fb35e4a37040a422eaf405395944ce1996850140e34152c6cf47"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Hanabi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d30dd0590f15ce7c820c9863d8ea30fac86def17"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "9cfbc1dde05e81c079c24c7e971ad6539eef43927e8361a708eafef6b61c285a"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Hanabi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cdc4e6fc2189f988d8c1d824bd1b61303a9d8ff0"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "4a97acf30967a5fb528691d24db1b310f466cabfca4e2e409e2d5732bc3bad32"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Hanabi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7dbe32f7c375d7267a28a2e11df5b4e65dec3fa"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "9ca44636f24aa08765ddcea12456c1116d71dab19487662c8040d44d3681521a"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Hanabi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00d501f8c68aa039463bffee401cd2f5445bbf3e"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "44f047c64477ec8614b4dd7c3fb9ca6c135fbd0ae7673a1c8eca3c3c8ee2061d"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Hanabi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44dd09a2db09bfe66c580b83b5ead2090869de88"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "a5789f908298b8f240e890c01665389e04a809fa1a9ca1730c91911173e33246"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Hanabi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d7eb734e330e3eed37cd964a0653cc91c06909a"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "a01b4aa0f2da1bb12d33814d1b9acfaf5bb8af169ba22afcdeb25a09d2a13f80"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Hanabi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7583af3d7572f73d0570fc4302563fb3b213f8a7"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "895ac3e875d0dc627ce806f1562409187d567c875a302608b39108c688792c04"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27dff24d5c0ebee41d03ddc881c9a5dea7a8a7e7"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "e41d11bed5bcf1254cc7d9a461bdb8f6ef9f5e85a87865bdc62f06e27ea9ca79"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-linux-gnu-cxx03.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62cbfa2f833883e25fd25b54fa1cc47ca3133651"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "769fe87af3c945bd96397d36794df11022735987c37dfc71e7198aade5e5b29d"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-linux-gnu-cxx11.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fdfeca55a6965c0ffe60a1d90e0495f6622c6afe"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "ff56ef94cde0816790a9ca005e9bc8549656b3b14340cfbd921c2bb3540290f3"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-linux-musl-cxx03.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e0efbc4e9f8c2533f71ae1cbae712612ae9886f"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "08e2e325b2564b55b0df5c4745323df467b36e693ddccaa6962c0470385fa068"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-linux-musl-cxx11.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c13b90a8fe0117dc73b73f7833443e29a9e6646"
+os = "windows"
+
+    [[Hanabi.download]]
+    sha256 = "a6abb9a5c034d3cb70e23dd590b71d98675203e5083ca8801b9e21993b935f9d"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-w64-mingw32-cxx03.tar.gz"
+[[Hanabi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9278a39ac6ce969f63de5182b4f0634270bfe58"
+os = "windows"
+
+    [[Hanabi.download]]
+    sha256 = "c8ce5427f832c28c554a1e6891e1f677c88fb62e72c15d17fe3364fc163e2572"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.i686-w64-mingw32-cxx11.tar.gz"
+[[Hanabi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba4b9d6173cd3d66f90eed0423c8b44e4670816d"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "18739370100931e6c40473ebb52ab114ab82d451cc9369e198ef532b4671b115"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Hanabi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69b9985aef34a01d84e8768ab10c854ed9040bd5"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "495c4f9c3cdd94aefb40511a958ed818926389d354266d03031259167ed0ca14"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+git-tree-sha1 = "df4d88c414f2066ddf20a6a24cb719746fc03c54"
+os = "macos"
+
+    [[Hanabi.download]]
+    sha256 = "e2b1a2dbb9090cdfd2ed34ab2a1845422839c5ce67085d3750ad71d02029b403"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-apple-darwin.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "95154d0fa33c0ab5d0a85ae4c57ca86e9153fb5e"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "0b1a32333d9077ae17c5fe725d24a867d05fc96fcaa4b0841d3bee5cd92ae0e3"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-linux-gnu-cxx03.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c5a258ddf5c93fc7355b5422c862e09e11b47cd"
+libc = "glibc"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "4a97a5a65d3d9bf018983d044044148f02d5c6ec3b75e447f627b73d42248cc2"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-linux-gnu-cxx11.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a15783d281a7176acadf6eeee5356f76d396728e"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "a3c97ddd935443de04ff6d1933189ca02659f3d5b45427ed723ce286f8f32e61"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-linux-musl-cxx03.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3eb0e93465f9e7fd9f682dddd640f7f5a6447c9d"
+libc = "musl"
+os = "linux"
+
+    [[Hanabi.download]]
+    sha256 = "f09b4ebda57ed38ae6201f3804b0102821c58e3ae3bc7f356bfda2bc819aa92f"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-linux-musl-cxx11.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+git-tree-sha1 = "96577a804cce35eae0a59c36849aee1c7eab282c"
+os = "freebsd"
+
+    [[Hanabi.download]]
+    sha256 = "b66a5baf63fc8005ff162f04f48fa6a2c04f9229ee2459d642289d43fabc5f36"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-unknown-freebsd.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "637195fb7141ffe150bf8dc3b4d858d23ced2070"
+os = "windows"
+
+    [[Hanabi.download]]
+    sha256 = "fcf5d8da4cb2f80c66bd03cb59cdee535b9a8f5eaeba8b855e960fd79af86722"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Hanabi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abcca6026d8f1ce0152a8418f79c868300afa543"
+os = "windows"
+
+    [[Hanabi.download]]
+    sha256 = "0e073f47229e434ae14f238f62e1af0f026f547624db53379d3aa8edc26233aa"
+    url = "https://github.com/JuliaBinaryWrappers/Hanabi_jll.jl/releases/download/Hanabi-v2021.1.23+0/Hanabi.v2021.1.23.x86_64-w64-mingw32-cxx11.tar.gz"
